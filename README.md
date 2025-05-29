@@ -37,7 +37,7 @@ pip install requests
 1. Update the constants in `update_readme_team.py`:
 ```python
 ORG_NAME = "your-organization-name"
-README_FILE = "path/to/your/README.md"
+README_FILE = "profile/README.md"
 META_FILE = "team_meta.json"
 ```
 
