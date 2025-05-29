@@ -71,7 +71,11 @@ We build tools that **respect the user**, **empower developers**, and **scale et
 *To appear in this list, go to your [organization membership settings](https://github.com/orgs/Cyrrus-Delta-Labs/people), locate your name, and set your membership to **public**.*
 
 <!-- START_TEAM_TABLE -->
-*Loading team members...*
+| Name        | GitHub        | Specialty Areas                         |
+|-------------|---------------|------------------------------------------|
+| `luccinmasirika` | [@luccinmasirika](https://github.com/luccinmasirika) | Lead Software Engineer | Web & Blockchain Developer  |
+
+_Last updated: 2025-05-29 22:23 UTC. Next update scheduled: 2025-06-02 06:00 UTC via GitHub Actions._
 <!-- END_TEAM_TABLE -->
 
 _Designed for humans. Compatible with machines._
