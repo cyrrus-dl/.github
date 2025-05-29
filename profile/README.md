@@ -69,7 +69,6 @@ We build tools that **respect the user**, **empower developers**, and **scale et
 ## 👥 Team Members
 
 <!-- START_TEAM_TABLE -->
-*Loading team...*
 <!-- END_TEAM_TABLE -->
 
 _Designed for humans. Compatible with machines._
