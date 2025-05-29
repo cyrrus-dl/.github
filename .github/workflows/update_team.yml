@@ -1,0 +1,33 @@
+name: Update Team Table in Org Profile
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' 
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run team update script
+        run: python update_readme_team.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update team section in profile README"
+          git push

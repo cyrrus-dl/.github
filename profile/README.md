@@ -68,7 +68,10 @@ We build tools that **respect the user**, **empower developers**, and **scale et
 
 ## 👥 Team Members
 
+*To appear in this list, go to your [organization membership settings](https://github.com/orgs/Cyrrus-Delta-Labs/people), locate your name, and set your membership to **public**.*
+
 <!-- START_TEAM_TABLE -->
+*Loading team members...*
 <!-- END_TEAM_TABLE -->
 
 _Designed for humans. Compatible with machines._
