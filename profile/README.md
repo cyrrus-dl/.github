@@ -73,13 +73,9 @@ We build tools that **respect the user**, **empower developers**, and **scale et
 <!-- START_TEAM_TABLE -->
 | Name        | GitHub        | Specialty Areas                         |
 |-------------|---------------|------------------------------------------|
-| `Cedric921` | [@Cedric921](https://github.com/Cedric921) | Software Engineer  |
-Full Stack Web & Mobile Developer  |
-TypeScript  | Ai Driven |
-Open Source Contributor |
 | `luccinmasirika` | [@luccinmasirika](https://github.com/luccinmasirika) | Lead Software Engineer | Web & Blockchain Developer  |
 
-_Last updated: 2026-06-01 11:28 UTC. Next update scheduled: 2026-06-01 06:00 UTC via GitHub Actions._
+_Last updated: 2026-06-08 10:48 UTC. Next update scheduled: 2026-06-08 06:00 UTC via GitHub Actions._
 <!-- END_TEAM_TABLE -->
 
 _Designed for humans. Compatible with machines._
