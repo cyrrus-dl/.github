@@ -73,9 +73,9 @@ We build tools that **respect the user**, **empower developers**, and **scale et
 <!-- START_TEAM_TABLE -->
 | Name        | GitHub        | Specialty Areas                         |
 |-------------|---------------|------------------------------------------|
-| `luccinmasirika` | [@luccinmasirika](https://github.com/luccinmasirika) | Lead Software Engineer | Web & Blockchain Developer  |
+| `luccinmasirika` | [@luccinmasirika](https://github.com/luccinmasirika) | Senior Frontend Engineer | AI products. React, TypeScript, LLM integrations. Rust on the side. |
 
-_Last updated: 2026-08-03 09:38 UTC. Next update scheduled: 2026-08-03 06:00 UTC via GitHub Actions._
+_Last updated: 2026-08-10 07:26 UTC. Next update scheduled: 2026-08-10 06:00 UTC via GitHub Actions._
 <!-- END_TEAM_TABLE -->
 
 _Designed for humans. Compatible with machines._
