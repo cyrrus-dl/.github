@@ -73,9 +73,9 @@ We build tools that **respect the user**, **empower developers**, and **scale et
 <!-- START_TEAM_TABLE -->
 | Name        | GitHub        | Specialty Areas                         |
 |-------------|---------------|------------------------------------------|
-| `luccinmasirika` | [@luccinmasirika](https://github.com/luccinmasirika) | Senior Frontend Engineer | AI products. React, TypeScript, LLM integrations. Rust on the side. |
+| `luccinmasirika` | [@luccinmasirika](https://github.com/luccinmasirika) | Senior Frontend & Product Engineer · AI interfaces · React, TypeScript, accessibility |
 
-_Last updated: 2026-11-16 14:46 UTC. Next update scheduled: 2026-11-16 06:00 UTC via GitHub Actions._
+_Last updated: 2026-11-23 17:22 UTC. Next update scheduled: 2026-11-23 06:00 UTC via GitHub Actions._
 <!-- END_TEAM_TABLE -->
 
 _Designed for humans. Compatible with machines._
